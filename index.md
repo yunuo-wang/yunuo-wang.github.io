@@ -30,6 +30,10 @@ On the side, I also enjoy working with vision applications that utilize various 
 - **[Dec. 2021]** Our paper PADMix got accepted into AAAI 2022!
 - **[Oct. 2021]** Started my D.Phil. journey at the University of Oxford.
 
+## Projects Experience
+
+My main research interest lies on bridging 2D and 3D Understanding. My D.Phil. work mainly builds on extracting 3D information in the latent space from large image collections to enhance the capabilities of models for generation and reconstruction. So far, I have worked on extracting geometry (3DMiner), illumination and deformable shape changes (Continuous 3D Words), and more recently materials (ZeST).
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
