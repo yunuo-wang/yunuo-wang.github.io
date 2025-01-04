@@ -2,9 +2,9 @@ domain: yunuo-wang.github.io       # if you want to force HTTPS, specify the dom
 url: https://yunuo-wang.github.io
 # Basic Information
 title: Yunuo Wang
-position: D.Phil. Student
-affiliation: University of Oxford
-email: ta-ying.cheng [at] cs.ox.ac.uk
+position: Undergraduate
+affiliation: Huazhong University of Science & Technology
+email: wyunuo [at] hust.edu.cn   
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -14,10 +14,10 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=onX3k7kAAAAJ&hl=en
+#google_scholar: https://scholar.google.com/citations?user=onX3k7kAAAAJ&hl=en
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/ttchengab
-linkedin: https://www.linkedin.com/in/tim-ta-ying-cheng-411857139/
+github_link: https://github.com/yunuo-wang
+#linkedin: https://www.linkedin.com/in/tim-ta-ying-cheng-411857139/
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
