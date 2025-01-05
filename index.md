@@ -4,36 +4,49 @@ layout: homepage
 
 ## About Me
 
-I am a D.Phil. candidate in Computer Science at the [University of Oxford](https://www.ox.ac.uk), co-supervised by Profs. [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My study is generously supported by the Taiwanese Government Scholarship to Study Abroad, ACE-OPS grant, and St. Catherine's College Overseas Scholarship. 
-I also had the privilege of collaborating closely with [Matheus Gadelha](http://mgadelha.me/), [Thibault Groueix](https://imagine.enpc.fr/~groueixt/), [Matthew Fisher](https://techmatt.github.io/), [Soren Pirk](https://storage.googleapis.com/pirk.io/index.html), and [Radomir Mech](https://research.adobe.com/person/radomir-mech/) during my internships at Adobe Research, and [Varun Jampani](https://varunjampani.github.io/), [Prafull Sharma](https://prafullsharma.net/), and [Mark Boss](https://markboss.me/) during my internship at Stability AI. Prior to my D.Phil., I worked as a research assistant in Computer Vision Lab, Academia Sinica, supervised by Profs. [Tyng-Luh Liu](https://www.iis.sinica.edu.tw/pages/liutyng/) and [Hwann-Tzong Chen](https://htchen.github.io). 
+I am a senior undergraduate student majoring in Bioscience at the School of Life Science and Technology, Huazhong University of Science and Technology (HUST). I have also had the privilege of participating in the International Guest Student Program (IGSP) at the University of Pennsylvania.
 
-I plan on submitting my thesis in the coming months and will soon be entering the job market. Feel free to contact me for any research opportunities!
+My research interests span the interdisciplinary fields of medical imaging, machine learning, and computational biology. Under the supervision of [Professor Weihua Chen](http://faculty.hust.edu.cn/chenweihua2/en/index.htm), I independently conducted metagenomic analyses on colorectal cancer datasets, identifying microbial biomarkers and developing robust cross-cohort predictive models. Additionally, under the guidance of [Professor James Choi](https://profiles.imperial.ac.uk/j.choi), I contributed to research on low-dose CT image denoising using GANs, exploring their potential applications in medical imaging.
+
+I have been honored with several awards, including the prestigious China National Scholarship. Currently, I am preparing to apply for a master's program to further deepen my expertise and research skills.
+
 
 ## Research Interests
 
-My main research interest lies on bridging 2D and 3D Understanding. My D.Phil. work mainly builds on extracting 3D information in the latent space from large image collections to enhance the capabilities of models for generation and reconstruction. So far, I have worked on extracting geometry (3DMiner), illumination and deformable shape changes (Continuous 3D Words), and more recently materials (ZeST).
+My main research interest lies on the intersection of computational methods and biomedical challenges, with an emphasis on integrating machine learning into medical imaging and biological data. I am particularly interested in disease prediction, image enhancement, and multimodal data integration. I am passionate about exploring how emerging technologies, such as Large Language Models and multimodal AI, can revolutionize healthcare by synthesizing diverse data sources.
 
-On the side, I also enjoy working with vision applications that utilize various modalities, such as point clouds and thermal images.
+
+{% include_relative _includes/publications.md %}
+
+
+
+## Project Experiences
+
+- Metagenomic Analysis of Colorectal Cancer Datasets Identifies Cross-Cohort Microbial Diagnostic Signatures and A Link with Choline Degradation
+ <a href="https://github.com/yunuo-wang/Cross-Cohort-Microbial-Diagnostic-Signatures" 
+class="publication-link-button"  target="_blank" >Code</a>
+
+
+- Deep Learning Approaches for SARS-CoV-2 CT Scan Classification: CNN and ResNet-50 Models
+ <a href="https://github.com/yunuo-wang/COVID-19-CT-Scan-Classification-Using-CNN-Models" 
+class="publication-link-button"  target="_blank" >Code</a>
+
+ 
+- Updating GMrepo Database from V2.0 to 3.0
+ <a href="https://gmrepo.humangut.info/home" 
+class="publication-link-button"  target="_blank" >GMrepo</a>
+
+
+- Deciphering the Country Level Health Tapestry in America
+ <a href="https://github.com/yunuo-wang/Deciphering-the-Country-Level-Health-Tapestry-in-America" 
+class="publication-link-button"  target="_blank" >Code</a>
+
+ 
 
 ## News
 
 - **[Jul. 2024]** Many news in July! I started a internship at Adobe Research London (Mentors: [Chun-Hao Huang](https://research.adobe.com/person/paulchhuang/), [Duygu Ceylan](https://www.duygu-ceylan.com/)), I defended my [Confirmation](https://www.ox.ac.uk/students/academic/guidance/graduate/research/status/DPhil) viva (Examiners: [Prof. Christian Rupprecht](https://chrirupp.github.io/), [Prof. Ronald Clark](https://www.ron-clark.com)), and our paper ZeST got accepted into ECCV 2024!
 - **[Mar. 2024]** Started a part-time internship at Stability AI! (Mentors: [Varun Jampani](https://varunjampani.github.io/), [Mark Boss](https://markboss.me/))
 - **[Feb. 2024]** Our paper Continuous 3D Words got accepted into CVPR 2024! Check out our work [here](http://ttchengab.github.io/continuous_3d_words/)!
-- **[Sep. 2023]** Our paper on Multi-Body SE(3) Equivariance is accepted to NeurIPS 2023!
-- **[Aug. 2023]** Three papers are accepted to IEEE Transactions on Intelligent Transportation Systems, WACV 2024, and BMVC 2024.
-- **[Jul. 2023]** Our paper 3DMiner got accepted into ICCV 2023!
-- **[May. 2023]** Started my second internship at Adobe Research! (Mentors: [Matheus Gadelha](http://mgadelha.me), [Thibault Groueix](https://imagine.enpc.fr/~groueixt/), [Matthew Fisher](https://techmatt.github.io), and [Radomir Mech](https://research.adobe.com/person/radomir-mech/))
-- **[Dec. 2022]** Defended my [Transfer of Status](https://www.ox.ac.uk/students/academic/guidance/graduate/research/status/DPhil) viva (Examiners: [Prof. Yarin Gal](https://www.cs.ox.ac.uk/people/yarin.gal/website/), [Prof. Ronald Clark](https://www.ron-clark.com)).
-- **[Jul. 2022]** Our paper Meta-Sampler got accepted into ECCV 2022!
-- **[Jun. 2022]** Started my internship at Adobe Research! (Mentors: [Matheus Gadelha](http://mgadelha.me), [Soren Pirk](https://storage.googleapis.com/pirk.io/index.html), [Thibault Groueix](https://imagine.enpc.fr/~groueixt/), and [Radomir Mech](https://research.adobe.com/person/radomir-mech/))
-- **[Dec. 2021]** Our paper PADMix got accepted into AAAI 2022!
-- **[Oct. 2021]** Started my D.Phil. journey at the University of Oxford.
-
-## Projects Experience
-
-My main research interest lies on bridging 2D and 3D Understanding. My D.Phil. work mainly builds on extracting 3D information in the latent space from large image collections to enhance the capabilities of models for generation and reconstruction. So far, I have worked on extracting geometry (3DMiner), illumination and deformable shape changes (Continuous 3D Words), and more recently materials (ZeST).
-
-{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
