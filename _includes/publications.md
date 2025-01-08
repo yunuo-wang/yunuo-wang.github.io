@@ -17,7 +17,7 @@ Publications
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">GAN-Based Architecture for Low-dose Computed Tomography Imaging Denoising</div>
     <div class="author"><strong>Yunuo Wang</strong>, Ningning Yang,Jialin Li</div>
-    <div class="periodical"><em>Accepted by the 2nd International Conference on Machine Learning and Automation (CONF-MLA)</em></div>
+    <div class="periodical"><em>In Proceedings of The 2nd International Conference on Machine Learning and Automation (CONF-MLA)</em>, 2024</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2411.09512" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
     </div>

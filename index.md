@@ -42,11 +42,6 @@ class="publication-link-button"  target="_blank" >GMrepo</a>
 class="publication-link-button"  target="_blank" >Code</a>
 
  
-
-## News
-
-- **[Jul. 2024]** Many news in July! I started a internship at Adobe Research London (Mentors: [Chun-Hao Huang](https://research.adobe.com/person/paulchhuang/), [Duygu Ceylan](https://www.duygu-ceylan.com/)), I defended my [Confirmation](https://www.ox.ac.uk/students/academic/guidance/graduate/research/status/DPhil) viva (Examiners: [Prof. Christian Rupprecht](https://chrirupp.github.io/), [Prof. Ronald Clark](https://www.ron-clark.com)), and our paper ZeST got accepted into ECCV 2024!
-- **[Mar. 2024]** Started a part-time internship at Stability AI! (Mentors: [Varun Jampani](https://varunjampani.github.io/), [Mark Boss](https://markboss.me/))
-- **[Feb. 2024]** Our paper Continuous 3D Words got accepted into CVPR 2024! Check out our work [here](http://ttchengab.github.io/continuous_3d_words/)!
-
+ 
+ 
 {% include_relative _includes/services.md %}

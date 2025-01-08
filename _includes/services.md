@@ -1,15 +1,7 @@
-## Services
+## Other interest
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+Outside of academics, I am deeply passionate about art, having practiced painting since the age of three, with expertise in sketching, watercolor, oil painting, and traditional Chinese painting. I am also an avid diver, a collector of butterfly specimens, and a lover of science fiction, both as a reader and a writer. Additionally, I founded and led a music club with over 150 members.
 
-<ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>AAAI Conference on Artificial Intelligence 2023</autocolor></a></li>
-</ul>
+![](/img/interest1.jpg)
 
-<!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
-</ul> -->
+![](/img/interest2.jpg)
