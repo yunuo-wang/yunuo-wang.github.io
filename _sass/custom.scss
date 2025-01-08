@@ -172,3 +172,19 @@ padding: .5rem;
   font-size: 12px;
 }
 
+
+
+.t-grid-wrap {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.6rem;
+  padding: 0 0 50px 0;
+}
+.t-grid-item {
+
+}
+.t-grid-item-img {
+  width: 100%; /* 图片宽度设置为100%，填满单元格 */
+  height: auto; /* 图片高度自动，保持宽高比 */
+  display: block; /* 移除图片下方的间隙 */
+}
